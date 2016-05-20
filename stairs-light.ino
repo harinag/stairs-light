@@ -1,3 +1,8 @@
+/* ***
+Project: Arduino Stairs Lighting
+Author:  Maxim Huzmiev
+
+*** */
 
 unsigned char pin=3;
 unsigned int r, level;
